@@ -1,4 +1,4 @@
-# AI-Driven-Time-Series-Prediction-Models-with-Sentiment-Analysis-Integration
+"#Equity Analysis with AI" 
 
 This research explores how adding sentiment analysis to stock market prediction models
 can improve their accuracy. We focused on seven key European stock indices: DE40,
@@ -13,6 +13,9 @@ models using key error metrics like Mean Squared Error (MSE), Mean Absolute Erro
 cate that sentiment data improves accuracy for some indices, but can also add noise to
 others, showing that the impact of sentiment is not uniform across all indices.
 
+This project is developed by:
+
+Krati Pandya , Israr , Zeel Dobariya, Abhi Patel, Darshankumar Kachhadiya, Anushka Chettiar
 
 Stock Market Prediction with ARIMA and Neural Networks
 
